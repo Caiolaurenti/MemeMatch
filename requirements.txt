@@ -1,15 +1,7 @@
-# NLP e embeddings
+streamlit
 sentence-transformers==2.1.0
-huggingface_hub==0.23.0
+pandas
+numpy==1.24.4
+scikit-learn==1.2.2
+pillow
 
-# Similaridade e processamento numérico
-scikit-learn==1.4.2
-numpy==1.26.4
-
-# Visualização e interface
-streamlit==1.35.0
-Pillow==10.2.0
-
-# Utilidades
-pandas==2.2.2
-tqdm==4.66.4
