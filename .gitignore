@@ -1,7 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
 ### Python template
-# Byte-compiled / optimized / DLL files
-reddit_memes_dataset
 
 __pycache__/
 *.py[cod]
